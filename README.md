@@ -1,0 +1,2 @@
+# abapgitStandaloneGenerate
+abapGit Standalone Generation
